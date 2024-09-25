@@ -1,0 +1,6 @@
+{
+    "singleQuote" : false,
+    "bracketSpacing" : false  ,
+    "tabwidth" : 1,
+    "semi" : true 
+}
